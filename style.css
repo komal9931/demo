@@ -1,0 +1,16 @@
+div::selection {
+  background-color: red;
+}
+::marker {
+  color: green;
+}
+
+ul {
+  list-style-image: url(./square.png);
+  /* font-size: 1rem; */
+  width: 10px;
+  height: 10px;
+}
+h1{
+    text-transform: ;
+}
